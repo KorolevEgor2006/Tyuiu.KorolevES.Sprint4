@@ -10,8 +10,8 @@ namespace Tyuiu.KorolevES.Sprint4.Task5.V11
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Cпринт #4                                                               *");
             Console.WriteLine("* Тема: Двумерные массивы (генератор случайных чисел)                     *");
-            Console.WriteLine("* Задание #4                                                              *");
-            Console.WriteLine("* Вариант #15                                                             *");
+            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Вариант #11                                                             *");
             Console.WriteLine("* Выполнил: Королев Егор Сергеевич | АСОиУб-24-1                          *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
