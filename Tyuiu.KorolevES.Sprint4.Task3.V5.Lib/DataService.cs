@@ -8,7 +8,7 @@ namespace Tyuiu.KorolevES.Sprint4.Task3.V5.Lib
             int res = 0;
             for (int i = 0; i < array.GetLength(0); i++)
             {
-                res+= array[i,1];
+                res+= array[i,0];
             }
             return res;
         }
